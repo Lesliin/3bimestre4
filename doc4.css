@@ -1,0 +1,48 @@
+h2{
+text-align: center;
+text-shadow: 0 0 0.2em #8F7
+}
+h1{
+text-align :center;
+text-shadow: 0 0 0.2em #87F, 0 0 0.2em #87F,
+		0 0 0.2em #87F
+
+}
+#text{
+color: blue;
+font-size: 20px;
+font: oblique bold 120% cursive
+}
+.lg{
+	color:red;
+	}
+#text2{
+	font-size: 20px;
+	color:green;
+}
+.list{
+	font-size: 25px;
+}
+ul{
+	font-size: 25px;
+}
+#gh{
+	font-size: 20px;
+}
+.of{
+	color:orange;
+	font-size: 20px;
+	font-variant-ligatures: fantasy;
+}
+#text4{
+	text-decoration: underline wavy red;
+	text-shadow: 0 0 0.2em #8F7
+}
+#text4{
+	text-align: center;
+}
+
+hr{
+ color:yellow;
+
+}
