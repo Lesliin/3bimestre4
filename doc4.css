@@ -30,19 +30,15 @@ ul{
 	font-size: 20px;
 }
 .of{
-	color:orange;
+	color:fuchsia;
 	font-size: 20px;
 	font-variant-ligatures: fantasy;
 }
 #text4{
 	text-decoration: underline wavy red;
-	text-shadow: 0 0 0.2em #8F7
+	text-shadow:0 0 0.2em #87F,0 0 0.2em #87F
 }
 #text4{
 	text-align: center;
 }
 
-hr{
- color:yellow;
-
-}
